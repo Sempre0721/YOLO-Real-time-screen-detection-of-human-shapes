@@ -1,0 +1,11 @@
+pypiwin32
+pywin32
+torch==2.0.1
+keyboard==0.13.5
+PyAutoGUI==0.9.54
+Pillow==10.0.0
+opencv_python==4.8.0.74
+mss==9.0.1
+ultralytics==8.0.143
+numpy==1.23.5
+
